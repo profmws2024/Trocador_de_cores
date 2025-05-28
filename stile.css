@@ -1,0 +1,35 @@
+h1{
+    text-align: center;
+}
+#Vermelho{
+  font-size: 20px;
+  align-items: center;
+  height: 50px;
+  left: 30px;
+  background-color: red;
+  color: aliceblue;
+}
+#Amarelo{
+  font-size: 20px;
+  align-items: center;
+  height: 50px;
+  left: 30px;
+  background-color: rgb(240, 236, 19);
+  color: black
+}
+
+#Verde{
+  font-size: 20px;
+  align-items: center;
+  height: 50px;
+  left: 30px;
+  background-color: greenyellow;
+  color: black
+}
+.container{
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px; /* Espaço entre os botões */
+}
